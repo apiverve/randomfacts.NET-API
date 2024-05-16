@@ -92,7 +92,7 @@ if(response.error != null) {
   "status": "ok",
   "error": null,
   "data": {
-    "fact": "There are 7 points on the Statue of Liberty's crown"
+    "fact": "Porsche also builds tractors"
   }
 }
 ```
