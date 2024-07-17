@@ -92,7 +92,7 @@ if(response.error != null) {
   "status": "ok",
   "error": null,
   "data": {
-    "fact": "Porsche also builds tractors"
+    "fact": "Moths are not really attracted to light it fly towards the blackest point which is behind the light."
   }
 }
 ```
