@@ -92,8 +92,9 @@ if(response.error != null) {
   "status": "ok",
   "error": null,
   "data": {
-    "fact": "Moths are not really attracted to light it fly towards the blackest point which is behind the light."
-  }
+    "fact": "Martha Stewart became a billionaire while in prison."
+  },
+  "code": 200
 }
 ```
 
