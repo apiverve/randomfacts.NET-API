@@ -92,7 +92,7 @@ if(response.error != null) {
   "status": "ok",
   "error": null,
   "data": {
-    "fact": "Famous lyricist \"Vairamuthu\"was born on 13-July-1953. He received the National Award 5 times in his career so far."
+    "fact": "Famous lyricist 'Vairamuthu' was born on 13-July-1953. He received the National Award 5 times in his career so far."
   },
   "code": 200
 }
